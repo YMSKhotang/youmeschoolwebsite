@@ -1,0 +1,208 @@
+
+h1{
+    height: 20px;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    color: red;
+    padding-top: 30px; 
+    padding-bottom: 30px;      
+}
+
+.khamos{
+    height:300px ;
+    width: 45%;
+    float: left;
+}
+
+.h{
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+img{
+    height: 20px;
+    width: 20px;
+}
+
+.k{
+    height: 300px;
+    width: 50%;
+    float: right;
+    
+}
+
+.Hebindra{
+    height: 300px;
+    width: 45%;
+    float: right;
+    
+}
+.hx{
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+.heb{
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+
+.presan{
+    height: 300px;
+    width: 45%;
+    float: left;
+}
+
+.p{
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+.pi{
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+.uddhap{
+    height: 300px;
+    width:45%;
+    float: right;
+  
+}
+
+.ud{
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+ .u{
+    height: 300px;
+    width: 50%;
+    float: right; 
+}
+
+
+.susana{
+    height:300px ;
+    width: 45%;
+    float: left;
+}
+
+.suimg{
+    height: 300px;
+    width: 50%;
+    float: left;
+    object-fit:contain;
+}
+
+img{
+    height: 20px;
+    width: 20px;
+}
+
+.isu{
+    height: 300px;
+    width: 50%;
+    float: right;
+    
+}
+
+.sabitra{
+    height: 300px;
+    width: 45%;
+    float: right;
+    
+}
+.saimg{
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+.isa{
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+
+
+.aaisa{
+    height: 300px;
+    width: 45%;
+    float: left;
+    object-fit: cover;
+}
+
+.iaisa{
+    height: 300px;
+    width: 50%;
+    float: right;
+    
+}
+.aimg{
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+.deepa{
+    height: 300px;
+    width:45%;
+    float: right;
+    
+  
+}
+
+.dimg{
+    height: 300px;
+    width: 50%;
+    float: left;
+   
+}
+
+ .idipa{
+    height: 300px;
+    width: 50%;
+    float: right; 
+}
+
+
+.pic{
+    margin-bottom: 20px;
+ 
+}
+
+.intro{
+      
+}
+
+.image{
+    height: 150px;
+    width: 150px;
+    border-radius: 360px;
+    
+}
+
+p{
+    color:skyblue;
+    font-size: 22px;
+}
+
+h4:hover {
+    color: skyblue;
+}
+
+p:hover {
+    color: black;
+}
+
+h1:hover {
+    color:blue;
+}
+
+

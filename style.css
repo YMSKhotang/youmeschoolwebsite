@@ -1,0 +1,521 @@
+body{
+    height: 1000px;
+    font-family: sans-serif;
+    text-align: center;   
+    color:white;
+}
+
+.container{
+    width: 100%;
+
+}
+.image {
+    width: 100%;
+    height: 300px;
+    align-items: center;
+       
+}
+.image img{
+    width: 100%;
+    height: 300px;
+    
+}
+.details{
+    width: 100%;
+    height: 300px;
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.future{
+    height: 300px;
+    width: 23%;
+    background-color: plum;
+    float: left;  
+}
+.future:hover{
+    background-color: black;
+}
+
+.commu{
+    height: 300px;
+    width: 23%;
+    background-color:#1E4D92;   
+    float: left;
+}
+.future:hover{
+    background-color: black;
+}
+
+
+.best{
+    height: 300px;
+    width: 23%;
+    background-color:grey;
+    float: left;
+}
+
+.flexible{
+    height: 300px;
+    width: 23%;
+    background-color: hotpink;
+    float: left;
+}
+
+
+/* aaisa */
+.welcom{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: black;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+.aaisa{
+    height: 140px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between ;
+}
+.bracket1{
+    height: 140px;
+    width: 20%;
+    float: left;
+    border: 2px solid gray;
+    text-align: center;
+    color:black;
+}
+
+
+.bracket2{
+    height: 140px;
+    width: 20%;
+    float: left;
+    border: 2px solid gray;
+    text-align: center;
+    color:black;
+}
+
+
+.bracket3{
+    height: 140px;
+    width: 20%;
+    float: left;
+    border: 2px solid gray;
+    text-align: center;
+    color:black;
+
+}
+
+
+.bracket4{
+    height: 140px;
+    width: 20%;
+    float: left;
+    border: 2px solid gray;
+    text-align: center;
+    color:black;
+}
+
+
+.uss{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+
+.featu{
+    color: black;
+
+}
+
+.scie{
+    height: 200px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    color: black;
+}  
+.hos{
+    height: 200px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    
+}
+.bota{
+    height: 200px;
+    width: 20%;
+    float: left;
+    text-align: center;
+
+}
+.buss{
+    height: 200px;
+    width: 20%;
+    float: left;
+    text-align: center;
+
+}
+.science{
+    height: 200px;
+    width: 90%;
+}
+.uni{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+} 
+
+h3{
+    font-size: 35px;
+}
+p1{
+    font-size: 28px;
+}
+.rai{
+    height: 60px;
+    width: 40%;
+    text-align: center;
+ 
+}
+.car{
+    height: 60px;
+    width: 25%;
+    text-align: center;
+    border: 1px solid skyblue;
+}
+.pro{
+    height: 60px;
+    width: 25%;
+    text-align: center;
+    border: 1px solid skyblue;
+
+}
+.car:hover{
+    background-color: dodgerblue;
+}
+.pro:hover{
+    background-color:  dodgerblue;
+}
+
+.science{
+    transition: transform .2s; 
+  }
+  .science:hover {
+    transform: scale(1.2); 
+  }
+
+
+  .hospitality{
+    transition: transform .2s; 
+  }
+  .hospitality:hover {
+    transform: scale(1.2); 
+  }
+
+
+  .botanical{
+    transition: transform .2s; 
+  }
+  .botanical:hover {
+    transform: scale(1.2); 
+  }
+
+
+
+  .bussiness{
+    transition: transform .2s; 
+  }
+  .bussiness:hover {
+    transform: scale(1.2); 
+  }
+
+
+
+  /* tanaka */
+  .Ta{
+    height:550px;
+    width: 100%;
+    background-color: rgba(177, 188, 190, 0.596);
+    text-align: center;
+    font-size: 20px;
+}
+.e{
+    height: 170px;
+    border-radius: 360px;
+}
+
+
+.e { transition: transform .2s; 
+  }
+  .e:hover {
+    transform: scale(1.2); 
+  }
+
+
+.Ra{
+    text-align: center;
+    color: rgb(19, 18, 18);
+    height: 500px;
+    
+}
+
+
+
+.Ea{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.TT{
+    height: 350px;
+    width: 40%;
+
+}
+
+.left{
+    height: 350px;
+    width: 50%;
+}
+.gall{
+    height: 70px;
+    width: 100%;
+}
+
+.ad{
+    height: 70px;
+    width: 100%;
+}
+
+.highly{
+    height: 70px;
+    width: 100%;
+   
+}
+.head1{
+    color: black;
+}
+.global{
+    height: 100px;
+    width: 100%;
+
+}
+.A{
+    height: 250px;
+    width: 70%;
+}
+
+.A { transition: transform .2s; 
+}
+.A:hover {
+  transform: scale(1.2); 
+}
+
+/* five */
+
+.img1{
+    height: 150px;
+    width: 20%;
+    border: 3px;
+    background-color: yellow;
+    float: left;
+}
+.one{
+    height: 150px;
+    width: 100%;
+}
+
+
+.img2{
+    height: 150px;
+    width: 20%;
+    border: 3px;
+    background-color: violet;
+    float: left;
+}
+.two{
+    height: 150px;
+    width: 100%;
+}
+.img3{
+    height: 150px;
+    width: 20%;
+    border: 3px;
+    background-attachment: orange;
+    float: left;
+}
+.three{
+    height: 150px;
+    width: 100%;
+}
+.img4{
+    height: 150px;
+    width: 20%;
+    border: 3px;
+    background-color: black;
+    float: left;
+}
+.four{
+    height: 150px;
+    width: 100%;
+}
+.img5{
+    height: 150px;
+    width: 20%;
+    border: 3px;
+    background-color: blue;
+    float: left;
+}
+.five{
+    height: 150px;
+    width: 100%;
+}
+
+.one{
+    transition: transform .2s; 
+   }
+  .one:hover {
+    transform: scale(1.2); 
+  }
+
+  .two{
+    transition: transform .2s; 
+  }
+  .two:hover {
+    transform: scale(1.2); 
+  }
+
+  .three{
+    transition: transform .2s; 
+  }
+  .three:hover {
+    transform: scale(1.2); 
+  }
+
+  .four{
+    transition: transform .2s; 
+  }
+  .four:hover {
+    transform: scale(1.2); 
+  }
+
+  .five{
+    transition: transform .2s; 
+  }
+  .five:hover {
+    transform: scale(1.2); 
+  }
+
+
+  /* sushila*/
+
+.sushiee{
+    height:400px;
+    width: 100%;
+}
+
+.choose{
+  width: 100%;
+  text-align: center;
+  color: black;
+} 
+.sushi{
+
+    height: 300px;
+    width: 100%;
+    display: flex;
+     justify-content: space-between;
+     text-align: center;
+     flex-direction: row;
+} 
+
+.box{
+    height: 250px;
+    width: 22%;
+    background-color: white;
+    text-align: center;
+    color: black;
+}
+
+/*hiradevi*/
+.hiru{
+    height: 400px;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(66, 64, 64);
+    color: white;
+    
+
+}
+.edu{
+    height: 400px;
+    width: 28%;
+
+}
+.edu p{
+    color: white;
+}
+
+.recent{
+    height: 400px;
+    width: 28%;
+    text-align: center;
+    font: size 20px; 
+ 
+}
+
+.photos{
+    display: flex;
+    height:100px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.photos img{
+    height: 40px;
+    width: 42px;
+}
+
+.picdetails{
+    width:30%;
+    text-align: center;
+}
+
+.paragraph{
+    width: 70%;
+}
+
+
+.course{
+    height: 400px;
+    width: 28%;
+   
+    text-align: center;
+    font: size 20px;
+
+}
+  
+
+
+

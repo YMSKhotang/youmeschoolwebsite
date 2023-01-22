@@ -1,0 +1,143 @@
+body{  
+    /*background: white;*/
+    background-color: rgb(234, 234, 247);
+    
+}
+
+.youme-gallery{
+    
+    --gap:6px;
+    --nums-col:4;
+    --row-height:300px;
+    
+    display: grid;
+    grid-template-columns: repeat(var(--nums-col), 1fr);
+    grid-auto-rows: var(--row-height);
+    grid-gap: var(--gap);
+
+    margin-top: 20px;
+    
+}
+.youme-gallery img{
+    height: 100%;
+    width: 100%;
+    border: 2px solid grey;
+    
+    
+}
+
+
+/*
+.galleries{
+    margin-top: 20px;
+}
+
+
+.a{
+    height: 300px;
+    width: 480px;
+    
+}
+.b{
+    height: 300px;
+    width: 470px;
+}
+
+.c{
+    height: 404px;
+    width:530px;
+}
+.d{
+    height: 300px;
+    width: 373px;
+}
+
+.dd{
+    min-height: 400px;
+    width: 400px;
+    float: left;
+
+}
+.e{
+    width: 400px;
+    height: 200px;
+
+}
+.f{
+    height: 200px;
+    width: 400px;
+    
+}
+
+
+.nn{
+    min-height: 390px;
+    width: 400px;
+    float: left;
+
+}
+.j{
+    width: 200px;
+    height: 200px;
+}
+.m{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.n{
+    height: 200px;
+    width: 200px;
+    
+}
+.q{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.gg{
+    min-height: 390px;
+    width: 350px;
+    float: right;
+    
+}
+.h{
+    height: 200px;
+    width: 350px;
+}
+.i{
+    height: 200px;
+    width: 350px;
+}
+.p{
+    height: 405px;
+    width: 473px; 
+    margin-left: 5px; 
+}
+.oo{
+    min-height: 400px;
+    width: 500px;
+    float: left;
+}
+
+
+.k{
+    height: 200px;
+    width: 250px;
+}
+.l{
+    height: 200px;
+    width: 250px;
+    float: left;
+}
+.s{
+    height: 200px;
+    width: 250px;
+    float: left;
+}
+.r{
+    height: 200px;
+    width: 250px;
+}
+
+*/
